@@ -1,0 +1,76 @@
+{
+  "hash": "cb6d6e90",
+  "configHash": "1882543c",
+  "lockfileHash": "46f244df",
+  "browserHash": "b4b8640c",
+  "optimized": {
+    "react": {
+      "src": "../../react/index.js",
+      "file": "react.js",
+      "fileHash": "52d8f7d3",
+      "needsInterop": true
+    },
+    "react-dom": {
+      "src": "../../react-dom/index.js",
+      "file": "react-dom.js",
+      "fileHash": "dbea6c35",
+      "needsInterop": true
+    },
+    "react/jsx-dev-runtime": {
+      "src": "../../react/jsx-dev-runtime.js",
+      "file": "react_jsx-dev-runtime.js",
+      "fileHash": "0766fa33",
+      "needsInterop": true
+    },
+    "react/jsx-runtime": {
+      "src": "../../react/jsx-runtime.js",
+      "file": "react_jsx-runtime.js",
+      "fileHash": "4f06dfa4",
+      "needsInterop": true
+    },
+    "@react-three/fiber": {
+      "src": "../../@react-three/fiber/dist/react-three-fiber.esm.js",
+      "file": "@react-three_fiber.js",
+      "fileHash": "0cf0e02c",
+      "needsInterop": false
+    },
+    "lucide-react": {
+      "src": "../../lucide-react/dist/esm/lucide-react.js",
+      "file": "lucide-react.js",
+      "fileHash": "844c42f2",
+      "needsInterop": false
+    },
+    "react-dom/client": {
+      "src": "../../react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "62fbffc1",
+      "needsInterop": true
+    },
+    "three": {
+      "src": "../../three/build/three.module.js",
+      "file": "three.js",
+      "fileHash": "450f3195",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-MVWPOKMQ": {
+      "file": "chunk-MVWPOKMQ.js"
+    },
+    "chunk-A4XIW7VS": {
+      "file": "chunk-A4XIW7VS.js"
+    },
+    "chunk-PJMRTMRF": {
+      "file": "chunk-PJMRTMRF.js"
+    },
+    "chunk-FYOQSAIZ": {
+      "file": "chunk-FYOQSAIZ.js"
+    },
+    "chunk-NHVOI7NB": {
+      "file": "chunk-NHVOI7NB.js"
+    },
+    "chunk-G3PMV62Z": {
+      "file": "chunk-G3PMV62Z.js"
+    }
+  }
+}
